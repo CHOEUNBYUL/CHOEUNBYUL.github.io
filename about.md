@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-I want get off office.
-Today, fire FRIDAY!!!
+마크 투안
+존나 잘생겼다
+얼굴로 세계를 구원한당
 
 **Less is more..**
